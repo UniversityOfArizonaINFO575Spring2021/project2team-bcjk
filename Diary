@@ -18,3 +18,4 @@ This will be an okay alternative though
 4/23 now that the home page is populated with articles, I'm also adding/changing the blocks to try to make it look better/explain how to use the site for the user who doesn't know intutively/
 4/24 Reviews for Classic Wow and League of legends finished. 
 4/24 added welcome message/instructions for how to navigate site on the home page; also deleted test review and deleted about us because users are probably not interested in that if they are looking for reviews; added contact block to contact us page
+4/24 added URL Aliases to all pages so they correlate with the content rather than being "/node8" "/node3" etc. to increase usability
