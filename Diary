@@ -21,5 +21,10 @@ This will be an okay alternative though
 4/24 added URL Aliases to all pages so they correlate with the content rather than being "/node8" "/node3" etc. to increase usability
 4/24 added an album review photo and a little text
 4/24 added 2 movie articles to site with images, added to Movies page via image links, updated URL alias and comment section for each page, added corresponding tags
-4/25 added to Yellowstone Tv Series review page, still want to add more and add aditional pictures.
+4/25 added to Yellowstone Tv Series review page
 4/25 added article for review of the Tv series Peaky Blinders. 
+4/25 added lorem ipsum to Peaky Blinders review
+4/25 updated medium specific pages for new articles
+4/25 added site navigation block at bottom of page for ease of use
+4/25 added help/user instruction block for navigating medium type pages (i.e. albums, movies, etc)
+4/25 Conducted usability test from user standpoint, tested links, searcg terms etc. Decided to make tags more consistent so searches would provide more results and be easier to conduct; changed them to only medium type, genre, and director/creator for movies and albums, as well as medium type synonyms (i.e. movies + film)
